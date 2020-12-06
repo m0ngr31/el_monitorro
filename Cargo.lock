@@ -2005,8 +2005,6 @@ dependencies = [
 [[package]]
 name = "telegram-bot"
 version = "0.8.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fc9552e972bcb551705fcad45bd0b86eca12a22379db36cdfa6d053e1a19b2de"
 dependencies = [
  "bytes",
  "futures",
@@ -2022,8 +2020,6 @@ dependencies = [
 [[package]]
 name = "telegram-bot-raw"
 version = "0.8.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0e4fc120e2b85d639fc932a4aa7c1b6a5f1189fb86948d7a02037d1d8f1ef559"
 dependencies = [
  "bytes",
  "serde",
